@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>NewMooIAR/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>181</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1215</ColumnWidth1><ColumnWidth2>324</ColumnWidth2><ColumnWidth3>81</ColumnWidth3></Build>
+    <Find-in-Files><ColumnWidth0>580</ColumnWidth0><ColumnWidth1>82</ColumnWidth1><ColumnWidth2>994</ColumnWidth2></Find-in-Files></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-26321-15675</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>NewMooIAR</ExpandedNode><ExpandedNode>NewMooIAR/Accel</ExpandedNode><ExpandedNode>NewMooIAR/Globals and RegVars</ExpandedNode><ExpandedNode>NewMooIAR/Globals and RegVars/MSP430</ExpandedNode><ExpandedNode>NewMooIAR/Interrupts</ExpandedNode><ExpandedNode>NewMooIAR/Interrupts/MSP430</ExpandedNode><ExpandedNode>NewMooIAR/MCUs</ExpandedNode><ExpandedNode>NewMooIAR/MCUs/MSP430</ExpandedNode><ExpandedNode>NewMooIAR/Moo</ExpandedNode><ExpandedNode>NewMooIAR/RFID</ExpandedNode><ExpandedNode>NewMooIAR/Sessions</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-24585-16322</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-2379-25335</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\NewMooCode\MCUs\mcu.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>120</SelStart><SelEnd>120</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\NewMooCode\RFID\rfid.c</Filename><XPos>0</XPos><YPos>23</YPos><SelStart>1555</SelStart><SelEnd>1555</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\NewMooCode\Globals and RegVars\MSP430\MSP430_globals_regvars.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>321</SelStart><SelEnd>321</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\NewMooCode\Moo\moo_main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>40</SelStart><SelEnd>40</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\NewMooCode\Moo\mymoo.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1265</SelStart><SelEnd>1265</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\NewMooCode\Accel\quick_accel_sensor.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1</SelStart><SelEnd>1</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\NewMooCode\Sessions\sessions.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\NewMooCode\Moo\moo_runmode.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>64</SelStart><SelEnd>64</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 6.0\430\inc\msp430x26x.h</Filename><XPos>0</XPos><YPos>971</YPos><SelStart>52469</SelStart><SelEnd>52469</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\NewMooCode\MCUs\MSP430\MSP430_mcu.c</Filename><XPos>0</XPos><YPos>473</YPos><SelStart>5071</SelStart><SelEnd>5079</SelEnd></Tab><ActiveTab>9</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\NewMooCode\Interrupts\interrupts.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>114</SelStart><SelEnd>114</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\NewMooCode\Moo\moo_main.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>48</SelStart><SelEnd>48</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\NewMooCode\Interrupts\MSP430\MSP430_interrupts.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>480</SelStart><SelEnd>480</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\NewMooCode\Interrupts\MSP430\MSP430_interrupts.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>17</SelStart><SelEnd>17</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\NewMooCode\MCUs\MSP430\MSP430_mcu.h</Filename><XPos>0</XPos><YPos>106</YPos><SelStart>4465</SelStart><SelEnd>4465</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\NewMooCode\Moo\moo_runmode.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>26</SelStart><SelEnd>26</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\NewMooCode\RFID\rfid.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1740</SelStart><SelEnd>1740</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\NewMooCode\Globals and RegVars\globals_regvars.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>144</SelStart><SelEnd>144</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-003efee0><key>iaridepm.enu1</key></Toolbar-003efee0></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>569</Bottom><Right>272</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>119048</sizeHorzCX><sizeHorzCY>205339</sizeHorzCY><sizeVertCX>163095</sizeVertCX><sizeVertCY>586242</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>361</Bottom><Right>1682</Right><x>-2</x><y>-2</y><xscreen>1684</xscreen><yscreen>363</yscreen><sizeHorzCX>1002381</sizeHorzCX><sizeHorzCY>372690</sizeHorzCY><sizeVertCX>119048</sizeVertCX><sizeVertCY>205339</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

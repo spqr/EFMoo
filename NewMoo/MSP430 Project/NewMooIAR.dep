@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>2102154545</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$TOOLKIT_DIR$\inc\in430.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\MSP430_interrupts.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\moo_runmode.pbi</file>
+      <file>$PROJ_DIR$\NewMooCode\Sessions\sessions.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\moo_main.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\MSP430_interrupts.pbi</file>
+      <file>$PROJ_DIR$\..\NewMooCode\Accel\quick_accel_sensor.h</file>
+      <file>$PROJ_DIR$\..\NewMooCode\Moo\moo_runmode.c</file>
+      <file>$PROJ_DIR$\..\NewMooCode\Moo\moo_runmode.h</file>
+      <file>$PROJ_DIR$\..\NewMooCode\RFID\rfid.c</file>
+      <file>$PROJ_DIR$\..\NewMooCode\RFID\rfid.h</file>
+      <file>$PROJ_DIR$\..\NewMooCode\Sessions\sessions.c</file>
+      <file>$PROJ_DIR$\..\NewMooCode\Sessions\sessions.h</file>
+      <file>$PROJ_DIR$\NewMooCode\RFID\rfid.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\MSP430_mcu.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\rfid.r43</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430xsfn.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\quick_accel_sensor.pbi</file>
+      <file>$PROJ_DIR$\Debug\Exe\NewMooIAR.d43</file>
+      <file>$PROJ_DIR$\Debug\Obj\rfid.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\msp430x26x.h</file>
+      <file>$PROJ_DIR$\..\NewMooCode\Accel\quick_accel_sensor.c</file>
+      <file>$PROJ_DIR$\NewMooCode\Moo\moo_runmode.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\MSP430_mcu.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\moo_runmode.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\NewMooIAR.pbd</file>
+      <file>$PROJ_DIR$\NewMooCode\Accel\quick_accel_sensor.c</file>
+      <file>$TOOLKIT_DIR$\config\lnk430F2618.xcl</file>
+      <file>$TOOLKIT_DIR$\config\multiplier.xcl</file>
+      <file>$PROJ_DIR$\..\NewMooCode\Globals and RegVars\globals_regvars.h</file>
+      <file>$PROJ_DIR$\NewMooCode\MCUs\MSP430\MSP430_mcu.c</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$PROJ_DIR$\NewMooCode\Moo\moo_main.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\sessions.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\quick_accel_sensor.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\moo_main.r43</file>
+      <file>$PROJ_DIR$\NewMooCode\Interrupts\MSP430\MSP430_interrupts.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\sessions.r43</file>
+      <file>$PROJ_DIR$\..\NewMooCode\Globals and RegVars\MSP430\MSP430_globals_regvars.h</file>
+      <file>$PROJ_DIR$\..\NewMooCode\Interrupts\MSP430\MSP430_interrupts.c</file>
+      <file>$PROJ_DIR$\..\NewMooCode\Interrupts\MSP430\MSP430_interrupts.h</file>
+      <file>$PROJ_DIR$\..\NewMooCode\MCUs\MSP430\MSP430_mcu.c</file>
+      <file>$PROJ_DIR$\..\NewMooCode\Interrupts\interrupts.h</file>
+      <file>$PROJ_DIR$\..\NewMooCode\MCUs\MSP430\MSP430_mcu.h</file>
+      <file>$PROJ_DIR$\..\NewMooCode\MCUs\mcu.h</file>
+      <file>$PROJ_DIR$\..\NewMooCode\Moo\moo_main.c</file>
+      <file>$PROJ_DIR$\..\NewMooCode\Moo\moo_main.h</file>
+      <file>$PROJ_DIR$\..\NewMooCode\Moo\mymoo.h</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 18</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\NewMooCode\Sessions\sessions.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\NewMooCode\Moo\moo_runmode.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 2</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 24</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8 44 47 6 43 20 0 31 10 29 38</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 8 44 47 6 43 20 0 31 10 29 38</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\NewMooCode\RFID\rfid.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 19</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 15</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 44 47 6 43 20 0 31 10 29 38</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 44 47 6 43 20 0 31 10 29 38</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\NewMooCode\Sessions\sessions.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 37</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 47 6</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 47 6</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\NewMooCode\RFID\rfid.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 19</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\NewMooIAR.d43</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 27 28 1 23 35 24 34 15 37 16</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\NewMooCode\Accel\quick_accel_sensor.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 17</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 34</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\NewMooCode\Moo\moo_runmode.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 2</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\NewMooIAR.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 5 14 4 2 17 19 33</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\NewMooCode\Accel\quick_accel_sensor.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 17</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\NewMooCode\MCUs\MSP430\MSP430_mcu.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\NewMooCode\Moo\moo_main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\NewMooCode\Interrupts\MSP430\MSP430_interrupts.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\NewMooCode\Interrupts\MSP430\MSP430_interrupts.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 1</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 40 44 47 6 43 20 0 31 10 29 38</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 40 44 47 6 43 20 0 31 10 29 38</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\NewMooCode\MCUs\MSP430\MSP430_mcu.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 23</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43 20 0 31 10 29 38</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 43 20 0 31 10 29 38</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\NewMooCode\Moo\moo_main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 35</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 46 47 6 10 29 38 44 43 20 0 31 8</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 46 47 6 10 29 38 44 43 20 0 31 8</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>[REBUILD_ALL]</name>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

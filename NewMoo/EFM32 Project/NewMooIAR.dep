@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>362007264</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\moo_main.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\moo_main.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\NewMooIAR.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\moo_runmode.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\sessions.pbi</file>
+      <file>$PROJ_DIR$\..\NewMooCode\MCUs\MSP430\MSP430_mcu.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\quick_accel_sensor.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\sessions.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\rfid.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\rfid.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\moo_runmode.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\quick_accel_sensor.pbi</file>
+      <file>$PROJ_DIR$\..\NewMooCode\MCUs\EFM32\EFM32_mcu.h</file>
+      <file>$PROJ_DIR$\..\NewMooCode\MCUs\mcu.h</file>
+      <file>$PROJ_DIR$\..\NewMooCode\Moo\moo_main.c</file>
+      <file>$PROJ_DIR$\..\NewMooCode\Moo\moo_main.h</file>
+      <file>$PROJ_DIR$\..\NewMooCode\Moo\mymoo.h</file>
+      <file>$PROJ_DIR$\..\NewMooCode\Moo\moo_runmode.c</file>
+      <file>$PROJ_DIR$\..\NewMooCode\Moo\moo_runmode.h</file>
+      <file>$PROJ_DIR$\..\NewMooCode\RFID\rfid.c</file>
+      <file>$PROJ_DIR$\..\NewMooCode\RFID\rfid.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\c.out</file>
+      <file>$PROJ_DIR$\..\NewMooCode\Sessions\sessions.c</file>
+      <file>$PROJ_DIR$\..\NewMooCode\Interrupts\EFM32\EFM32_interrupts.h</file>
+      <file>$PROJ_DIR$\..\NewMooCode\Interrupts\interrupts.h</file>
+      <file>$PROJ_DIR$\..\NewMooCode\Accel\quick_accel_sensor.c</file>
+      <file>$PROJ_DIR$\..\NewMooCode\Accel\quick_accel_sensor.h</file>
+      <file>$PROJ_DIR$\..\NewMooCode\Globals and RegVars\EFM32\EFM32_globals_regvars.h</file>
+      <file>$PROJ_DIR$\..\NewMooCode\Globals and RegVars\globals_regvars.h</file>
+      <file>$PROJ_DIR$\..\NewMooCode\Sessions\sessions.h</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 22</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\NewMooIAR.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 1 11 12 10 5</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\NewMooCode\Moo\moo_main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 1</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 16 17 27 21 29 28 14 13 19</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16 17 27 21 29 28 14 13 19</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\NewMooCode\Moo\moo_runmode.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 19 14 17 27 13 21 29 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 19 14 17 27 13 21 29 28</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\NewMooCode\RFID\rfid.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 10</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 14 17 27 13 21 29 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14 17 27 13 21 29 28</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\NewMooCode\Sessions\sessions.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 8</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 17 27</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 17 27</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\NewMooCode\Accel\quick_accel_sensor.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 7</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12</file>
+        </tool>
+      </outputs>
+    </file>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\NewMooCode\Moo\moo_main.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\NewMooCode\Moo\moo_runmode.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\NewMooCode\RFID\rfid.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>[REBUILD_ALL]</name>
+    </forcedrebuild>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
